@@ -1,6 +1,16 @@
 Mould Master library for Openscad
 =================================
 
+Simple to use, just do:
+```
+use <mould-master.scad>
+master() {
+  # <your-openscad-here>
+}
+```
+
+There is also a `mould()` module which will show the expected mould.
+
 Feedback very welcome
 ---------------------
 
