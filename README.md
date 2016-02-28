@@ -27,7 +27,7 @@ requires just enough silicone to keep its shape.
 
 ![so make it logo master and mould](https://github.com/beanz/mould-master-scad/raw/master/examples/jpgs/so-make-it-chocs.jpg "So Make It Logo Master and Mould")
 
-Similarly, the [Sad Face](http://www.thingiverse.com/thing:1350837) master
+Similarly, the [Sad Face](http://www.thingiverse.com/make:199508) master
 [stl](https://github.com/beanz/mould-master-scad/blob/master/examples/stls/sad-face-chocs.stl)
 looks like:
 
