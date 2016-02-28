@@ -21,12 +21,15 @@ They were tasty and I knew I was going to want to make more chocolates
 so this library attempts to make the process easier. It attempts to be
 efficient by reducing the amount of silicone required to fill the
 mould master to a minimum.  For exmaple, the
-[So Make It](http://www.somakeit.org.uk/) logo master requires just
-enough silicone to keep its shape.
+[So Make It](http://www.somakeit.org.uk/) logo master
+[stl](https://github.com/beanz/mould-master-scad/blob/master/examples/stls/so-make-it-chocs.stl)
+requires just enough silicone to keep its shape.
 
 ![so make it logo master and mould](https://github.com/beanz/mould-master-scad/raw/master/examples/jpgs/so-make-it-chocs.jpg "So Make It Logo Master and Mould")
 
-Similarly, the [Sad Face](http://www.thingiverse.com/thing:1350837) master looks like:
+Similarly, the [Sad Face](http://www.thingiverse.com/thing:1350837) master
+[stl](https://github.com/beanz/mould-master-scad/blob/master/examples/stls/sad-face-chocs.stl)
+looks like:
 
 ![sad face master](https://github.com/beanz/mould-master-scad/raw/master/examples/jpgs/sad-face-chocs.jpg "Sad Face Master")
 
